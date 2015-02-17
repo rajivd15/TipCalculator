@@ -1,0 +1,2 @@
+# TipRight
+Tip calculator app
